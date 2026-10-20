@@ -2,15 +2,13 @@
 
 🎓 **First-Year Engineering Student & Aspiring Software Engineer**  
 💡 Passionate about building practical apps, user-friendly websites, and software tools.
-
-###📌 About Me
+---
+### 📌 About Me
 - 🏫 Studying Engineering with a strong interest in Software Development.
 - 💻 Learning C and Python.
 - 🚀 Documenting my journey by uploading apps, websites, and projects as I build.
 - 🎯 Goal: Master core software engineering concepts and build impactful applications.
-
 ---
-
 ### 🧰 Tech Stack
 - **Languages:** C, Python.
 - **Tools:** Git, GitHub, PyCharm.
