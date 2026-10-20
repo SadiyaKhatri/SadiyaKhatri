@@ -1,6 +1,6 @@
 ## Hi👋, I am Sadiya Khatri!
 
-🎓 **First-Year Engineering Student & Aspiring Software Engineer**  
+🎓 *First-Year Engineering Student & Aspiring Software Engineer*
 💡 Passionate about building practical apps, user-friendly websites, and software tools.
 ---
 ### 📌 About Me
