@@ -11,7 +11,7 @@
 ---
 ### 🧰 Tech Stack
 - **Languages:** C, Python.
-- **Tools:** Git, GitHub, PyCharm.
+- **Tools:** Git, GitHub, PyCharm, VS Code.
 <!--
 **SadiyaKhatri/SadiyaKhatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
